@@ -1,5 +1,5 @@
 ------------------------------------------------------
-TQQ7101 Band 1 BAW Duplexer
+TQQ7101 LTE Band 1 BAW Duplexer
 ------------------------------------------------------
 LTE frequency band: http://niviuk.free.fr/lte_band.php
 
