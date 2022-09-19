@@ -2,6 +2,6 @@
 # Various RF Components
 * LTE Band 1 BAW Duplexer: TQQ7101
 * LTE Band 3 BAW Duplexer: TQQ6103
-* Inductor: LQP01HQ16N
+* Inductor: [LQP01HQ16N](https://github.com/Kolchuzhin/radios/blob/master/RF_components/inductors/LQP01HQ16N.step)
 
-* LGA_22CHTR_STM.step
+* [LGA_22CHTR_STM.step](https://github.com/Kolchuzhin/radios/blob/master/RF_components/LGA_22CHTR_STM.step)
