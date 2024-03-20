@@ -4,4 +4,4 @@
 * LTE Band 3 BAW Duplexer: TQQ6103
 * Inductor: [LQP01HQ16N](https://github.com/Kolchuzhin/radios/blob/master/RF_components/inductors/LQP01HQ16N.step)
 
-* [LGA_22CHTR_STM.step](https://github.com/Kolchuzhin/radios/blob/master/RF_components/LGA_22CHTR_STM.step)
+* Package: [LGA_22CHTR_STM.step](https://github.com/Kolchuzhin/radios/blob/master/RF_components/LGA_22CHTR_STM.step)
