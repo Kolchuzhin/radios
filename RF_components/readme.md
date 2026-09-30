@@ -2,12 +2,14 @@
 # Various RF Components
 
 
-| RF-component                              | 3D Model | SnP |                   description               |
+| RF-component                           | 3D Model | SnP |                   description               |
 |:---------------------------------------|:--------:|:---:|:-------------------------------------------:|
 |                                        |          |     |                                             |
-| Inductor                               | [LQP01HQ16N.step](https://github.com/Kolchuzhin/radios/blob/master/RF_components/inductors/LQP01HQ16N.step) | | |
+| Trace                                  |                                                                                                             |  [trace.s2p](https://github.com/Kolchuzhin/radios/blob/master/RF_components/trace.s2p) | |
 |                                        |          |     |                                             |
-| Capacitor                              | [GJM0225C1C6R8BB01.step](https://github.com/Kolchuzhin/radios/blob/master/RF_components/capacitors/GJM0225C1C6R8BB01.step) | | |
+| Inductor                               | [LQP01HQ16N.step](https://github.com/Kolchuzhin/radios/blob/master/RF_components/inductors/LQP01HQ16N.step) | [LQP01HQ16N.s1p](https://github.com/Kolchuzhin/radios/blob/master/RF_components/inductors/LQP01HQ16N.s1p) | |
+|                                        |          |     |                                             |
+| Capacitor                              | [GJM0225C1C6R8BB01.step](https://github.com/Kolchuzhin/radios/blob/master/RF_components/capacitors/GJM0225C1C6R8BB01.step) | [GJM0225C1C6R8BB01.s1p](https://github.com/Kolchuzhin/radios/blob/master/RF_components/capacitors/GJM0225C1C6R8BB01.s1p) | |
 |                                        |          |     |                                             |
 | Package                                | [LGA_22CHTR_STM.step](https://github.com/Kolchuzhin/radios/blob/master/RF_components/LGA_22CHTR_STM.step) | | |
 |                                        |          |     |                                             |
